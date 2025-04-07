@@ -25,6 +25,7 @@ class data{
     required this.Gravity,
     required this.Area,
     required this.D,
+
   }
   );
 }
